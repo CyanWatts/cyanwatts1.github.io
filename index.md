@@ -2,7 +2,7 @@
 - My name is Xian Fu( 傅贤 ). Now I’m a junior student in the College of Computer Science and Technology from Jilin University.
 
 
-## Educational
+## Education
 - 2018-2022 Jilin University
 
 
@@ -18,5 +18,5 @@
 - **Multiagent Systems**  _Algorithmic, Game-Theoretic, and Logical Foundations_<br>
 　　　by Yoav Shoham
  
-### Contact
+## Contact
 - Email: fuxian2118@mails.jlu.edu.cn
