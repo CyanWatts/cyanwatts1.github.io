@@ -8,8 +8,6 @@
 
 ## Reasearch Interest
 - Reinforcement Learning
-- Game Theory
-- Multi-agent Systems
 
 
 ## Books I'm learning
