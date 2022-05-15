@@ -8,6 +8,8 @@
 
 ## Reasearch Interest
 - Reinforcement Learning
+- Representation Learning
+- Evolutionary Reinforcement Learning
 
 
 ## Books I'm learning
