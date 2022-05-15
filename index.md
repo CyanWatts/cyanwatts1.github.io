@@ -1,9 +1,9 @@
 ## About Me
-- My name is Xian Fu( 傅贤 ). Now I’m a junior student in the College of Computer Science and Technology from Jilin University.
+- My name is Xian Fu. Now I’m a senior student in the College of Computer Science and Technology from Jilin University.
 
 
 ## Education
-- 2018-2022 Jilin University
+- 2018-2022 bachelor Jilin University
 
 
 ## Reasearch Interest
