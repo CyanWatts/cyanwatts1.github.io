@@ -13,7 +13,9 @@
 
 
 ## Publications
-[Google Scholar](https://scholar.google.com/citations?user=MXwELckAAAAJ&hl=zh-CN&oi=ao)
+- [Google Scholar](https://scholar.google.com/citations?user=MXwELckAAAAJ&hl=zh-CN&oi=ao)
+
+
 
 <!--
 ## Books I'm learning
@@ -22,6 +24,8 @@
 - **Multiagent Systems**  _Algorithmic, Game-Theoretic, and Logical Foundations_<br>
 　　　by Yoav Shoham
 -->
+ 
+ 
  
 ## Contact
 - Email: fuxian1224@gmail.com
