@@ -11,13 +11,13 @@
 - Representation Learning
 - Evolutionary Reinforcement Learning
 
-
+<!--
 ## Books I'm learning
 - **Reinforcement Learning** _an introduction_<br>
 　　　by Richard Sutton and Andrew Barto    
 - **Multiagent Systems**  _Algorithmic, Game-Theoretic, and Logical Foundations_<br>
 　　　by Yoav Shoham
- 
+-->
  
 ## Contact
 - Email: fuxian2118@mails.jlu.edu.cn
