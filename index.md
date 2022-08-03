@@ -3,7 +3,7 @@
 
 
 ## Education
-- 2018-2022, bachelor, Jilin University
+- 2018-2022, Undergrad student, Jilin University
 
 
 ## Reasearch Interest
