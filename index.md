@@ -6,10 +6,11 @@
 - 2018-2022, Undergrad student, Jilin University
 
 
-## Reasearch Interest [Google Scholar](https://scholar.google.com/citations?user=MXwELckAAAAJ&hl=zh-CN&oi=ao)
+## Reasearch Interest 
 - Reinforcement Learning
 - Representation Learning
 - Evolutionary Reinforcement Learning
+[Google Scholar](https://scholar.google.com/citations?user=MXwELckAAAAJ&hl=zh-CN&oi=ao)
 
 <!--
 ## Books I'm learning
