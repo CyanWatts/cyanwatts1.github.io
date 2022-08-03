@@ -20,4 +20,4 @@
 -->
  
 ## Contact
-- Email: fuxian2118@mails.jlu.edu.cn
+- Email: fuxian1224@gmail.com
