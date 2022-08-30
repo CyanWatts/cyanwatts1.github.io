@@ -14,7 +14,7 @@
 
 
 ## Publications
-- see [Google Scholar](https://scholar.google.com/citations?user=MXwELckAAAAJ&hl=zh-CN&oi=ao)
+- see [[Google Scholar]](https://scholar.google.com/citations?user=MXwELckAAAAJ&hl=zh-CN&oi=ao)
 
 
 
