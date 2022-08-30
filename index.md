@@ -1,9 +1,10 @@
 ## About Me
-- My name is Xian Fu. Now I’m a senior student in the College of Computer Science and Technology from Jilin University.
+- My name is Xian Fu. Now I’m a MS student in the College of Intelligence and Computing from Tianjin University.
 
 
 ## Education
 - 2018-2022, Undergrad student, Jilin University
+- 2022-Present, MS student, Tianjin University
 
 
 ## Reasearch Interest 
@@ -13,7 +14,7 @@
 
 
 ## Publications
-- [Google Scholar](https://scholar.google.com/citations?user=MXwELckAAAAJ&hl=zh-CN&oi=ao)
+- see [Google Scholar](https://scholar.google.com/citations?user=MXwELckAAAAJ&hl=zh-CN&oi=ao)
 
 
 
