@@ -3,8 +3,8 @@
 
 
 ## Education
-- 2018-2022, Undergrad student, Jilin University
-- 2022-Present, MS student, Tianjin University
+- 2018-2022       Undergrad student   Jilin University
+- 2022-Present    MS student          Tianjin University
 
 
 ## Reasearch Interest 
