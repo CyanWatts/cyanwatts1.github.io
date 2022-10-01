@@ -1,5 +1,5 @@
 ## About Me
-- My name is Xian Fu. Now I’m a MS student in the College of Intelligence and Computing from Tianjin University.
+- My name is Xian Fu. Now I’m a MS student of the College of Intelligence and Computing of Tianjin University.
 
 
 ## Education
