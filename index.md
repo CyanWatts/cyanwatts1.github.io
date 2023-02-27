@@ -1,3 +1,5 @@
+![avatar](/cyan.jpg)
+
 ## About Me
 - My name is Xian Fu. Now I’m a first year MS student of the College of Intelligence and Computing of Tianjin University.
 
