@@ -1,7 +1,7 @@
 ![avatar](/cyan.jpg)
 
 ## About Me
-- My name is Xian Fu. Now I’m a first year MS student of the College of Intelligence and Computing of Tianjin University, supervised by Prof. Jianye Hao.
+- My name is Xian Fu. Now I’m a 2nd year MS student of the College of Intelligence and Computing of Tianjin University, supervised by Prof. Jianye Hao.
 
 
 ## Education
