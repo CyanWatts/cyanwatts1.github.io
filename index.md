@@ -12,7 +12,7 @@
 ## Reasearch Interest 
 - Reinforcement Learning
 - Representation Learning
-- Evolutionary Reinforcement Learning
+- LLMs for Robotics
 
 
 ## Publications
